@@ -26,10 +26,10 @@ ____
 > 使用baidu语法爬虫从搜索baidu搜索引擎抓取链接, 
 定义爬行1-10页,并使用插件metinfo_sql来对每个链接进行漏洞检测,
 并输出保存到metinfo_pass.txt
-![frameworkpng01](///)
+![frameworkpng01](/png/01.png)
 
 > 使用本地已保存的txt里的url进行漏洞检测
-![frameworkpng02](///)
+![frameworkpng02](/png/02.png)
 
 ___
 * 说明: oshadan接口已废弃, 后采用zoomeye(开发ing)
